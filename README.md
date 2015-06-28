@@ -1,13 +1,13 @@
 # HTML2TMX
 HTML2TMX - A converter to create TMX files from HTML tables
  
- **************************************************************************/
+ **************************************************************************
  HTML2TMX is based on the JSOUP HTML parser by Jonathan Hedley. 
  See http://jsoup.org/ for details.
  
  Copyright (C) 2013 Martin Wunderlich
-               Home page: http://www.martinwunderlich.com/
-               Support and questions: martin@wunderlich.com
+ Home page: http://www.martinwunderlich.com/
+ Support and questions: martin@wunderlich.com
 
  This program is free software; you can redistribute it and/or modify
  it under the terms of the GNU Lesser General Public License (LGPL) as published by
